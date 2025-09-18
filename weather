@@ -4,9 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My Weather Application</title>
-    <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -23,7 +21,6 @@
   </head>
   <body class="p-4">
     <div class="bg-white max-w-2xl mx-auto p-6 md:p-10 rounded-xl shadow-lg mt-6 md:mt-12">
-      <!-- Header with search -->
       <header class="border-b border-gray-100 pb-6 mb-6">
         <form id="search-form" class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
           <input
@@ -64,7 +61,7 @@
           Open-source on 
           <a href="https://github.com/Prudie90/WeatherApp" target="_blank" class="text-[#885df1] hover:underline">GitHub</a>, 
           hosted on 
-          <a href="https://idyllic-begonia-f54022.netlify.app/" target="_blank" class="text-[#885df1] hover:underline">Netlify</a>.
+          <a href="https://heroic-liger-5e8106.netlify.app/"_blank" class="text-[#885df1] hover:underline">Netlify</a>.
         </p>
       </footer>
     </div>
